@@ -1,0 +1,229 @@
+{
+
+"productos": [
+    {
+        "id": 1,
+        "name": "Jacaranda",
+        "tipo": "bolso con cierre de broche de imán",
+        "color": "suela",
+        "price": "$8280",
+        "cuotas": "6 cuotas de $1380 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle. Costuras y remaches de seguridad. Cierres metálicos YKK y tiracierres de cuero. Bolsillo interno simple y externo con cierre. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro",
+        "medidas": "-Alto: 40 cm, -Ancho superior: 40 cm, -Ancho de la base: 32 cm, -Profundidad: 13 cm, -Largo de manijas: 58 cm",
+        "img": "ba1.jpg",
+        "CatId": "1"
+    },
+    {
+        "id": 2,
+        "name": "Jacaranda",
+        "tipo": "bolso con cierre de broche de imán",
+        "color": "negro",
+        "price": "$8280",
+        "cuotas": "6 cuotas de $1380 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle. Costuras y remaches de seguridad. Cierres metálicos YKK y tiracierres de cuero. Bolsillo interno simple y externo con cierre. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro",
+        "medidas": "-Alto: 40, -Ancho superior: 40 cm, -Ancho de la base: 32 cm, -Profundidad: 13 cm, -Largo de manijas: 58 cm",
+        "img": "ba4.jpg",
+        "CatId": "1"
+    },
+    {
+        "id": 3,
+        "name": "Selva",
+        "tipo": "mochila",
+        "color": "suela",
+        "price": "$8340",
+        "cuotas": "6 cuotas de $1390 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle. Esta mochila se puede usar como bolso también, enganchando las correas en las arandelas superiores. Costuras y remaches de seguridad. Cierres metálicos ykk y tiracierres de cuero. Bolsillo interno y externo simple y en la espalda con cierre. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro.",
+        "medidas": "-Alto: 40 cm, Apertura de cierre superior: 28 cm, Ancho de la base: 28 cm, Profundidad: 12 cm, Largo de correas: 80 cm",
+        "img": "ma1.jpg",
+        "CatId": "2"
+    },
+    {
+        "id": 4,
+        "name": "Selva",
+        "tipo": "mochila",
+        "color": "negro",
+        "price": "$8340",
+        "cuotas": "6 cuotas de $1390 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle. Esta mochila se puede usar como bolso también, enganchando las correas en las arandelas superiores. Costuras y remaches de seguridad. Cierres metálicos ykk y tiracierres de cuero. Bolsillo interno y externo simple y en la espalda con cierre. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro.",
+        "medidas": "-Alto: 40 cm, Apertura de cierre superior: 28 cm, Ancho de la base: 28 cm, Profundidad: 12 cm, Largo de correas: 80 cm",
+        "img": "ma3.jpg",
+        "CatId": "2"
+    },
+    {
+        "id": 5,
+        "name": "Selva mini",
+        "tipo": "mochila",
+        "color": "mostaza",
+        "price": "$8040",
+        "cuotas": "6 cuotas de $1340 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle. Esta mochila se puede usar como bolso también, enganchando las correas en las arandelas superiores. Costuras y remaches de seguridad. Cierres metálicos ykk y tiracierres de cuero. Bolsillo interno y externo simple y en la espalda con cierre. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro.",
+        "medidas": "-Alto: 35 cm, Apertura de cierre superior: 26 cm, Ancho de la base: 28 cm, Profundidad: 12 cm, Largo de correas: 80 cm",
+        "img": "ma5.jpg",
+        "CatId": "2"
+    },
+    {
+        "id": 6,
+        "name": "Delta",
+        "tipo": "bolso con cierre de broche de imán",
+        "color": "suela",
+        "price": "$6900",
+        "cuotas": "6 cuotas de $1150 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle -Costuras y remaches de seguridad. Cierres metálicos YKK y tiracierres de cuero. Tiene un monedero con mosquetón para sujetarlo a la cartera y otro mosquetón para colgar las llaves. Herrajes plateados. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro. Se cierra con un broche imán y se puede regular el cierre por medio de un cordón de cuero.",
+        "medidas": "-Alto: 26 cm, -Ancho: 29 cm, -Profundidad: 15 cm",
+        "img": "bb1.jpg",
+        "CatId": "1"
+    },
+    {
+        "id": 7,
+        "name": "Delta",
+        "tipo": "bolso sin cierre",
+        "color": "negro",
+        "price": "$6900",
+        "cuotas": "6 cuotas de $1150 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle -Costuras y remaches de seguridad. Cierres metálicos YKK y tiracierres de cuero. Tiene un monedero con mosquetón para sujetarlo a la cartera y otro mosquetón para colgar las llaves. Herrajes plateados. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro. Se cierra con un broche imán y se puede regular el cierre por medio de un cordón de cuero.",
+        "medidas": "-Alto: 26 cm, -Ancho: 29 cm, -Profundidad: 15 cm",
+        "img": "bb3.jpg",
+        "CatId": "1"
+    },
+    {
+        "id": 8,
+        "name": "Delta",
+        "tipo": "bolso sin cierre",
+        "color": "mostaza",
+        "price": "$6900",
+        "cuotas": "6 cuotas de $1150 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle -Costuras y remaches de seguridad. Cierres metálicos YKK y tiracierres de cuero. Tiene un monedero con mosquetón para sujetarlo a la cartera y otro mosquetón para colgar las llaves. Herrajes plateados. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro. Se cierra con un broche imán y se puede regular el cierre por medio de un cordón de cuero.",
+        "medidas": "-Alto: 26 cm, -Ancho: 29 cm, -Profundidad: 15 cm",
+        "img": "bb5.jpg",
+        "CatId": "1"
+    },
+    {
+        "id": 9,
+        "name": "Andes",
+        "tipo": "bolso con cierre de broche de imán",
+        "color": "negro y suela",
+        "price": "$8280",
+        "cuotas": "6 cuotas de $1380 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle. Costuras y remaches de seguridad. Cierres metálicos YKK y tiracierres de cuero. Bolsillo interno simple y externo con cierre. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro",
+        "medidas": "-Alto: 35 cm, -Ancho: 37 cm, -Profundidad: 14 cm, -Largo de manijas: 48 cm (se hacen cortas como maletín a pedido)",
+        "img": "bav1.jpg",
+        "CatId": "1"
+    },
+    {
+        "id": 10,
+        "name": "Lago",
+        "tipo": "bolso con cierre de broche de imán",
+        "color": "suela",
+        "price": "$8280",
+        "cuotas": "6 cuotas de $1380 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle.Tiene un bolsillo interno con cierre que también funciona como separador.La correa más larga es regulable y desmontable. Herrajes bronce viejo. Cierres metálico YKK y tiracierres de cuero.  No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro",
+        "medidas": "-Alto: 29 cm, -Ancho: 26 cm, -Profundidad: 16 cm",
+        "img": "bc1.jpg",
+        "CatId": "1"
+    },
+    {
+        "id": 11,
+        "name": "Lago",
+        "tipo": "bolso con cierre de broche de imán",
+        "color": "suela",
+        "price": "$8280",
+        "cuotas": "6 cuotas de $1380 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle.Tiene un bolsillo interno con cierre que también funciona como separador.La correa más larga es regulable y desmontable. Herrajes bronce viejo. Cierres metálico YKK y tiracierres de cuero.  No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro",
+        "medidas": "-Alto: 29 cm, -Ancho: 26 cm, -Profundidad: 16 cm",
+        "img": "bc3.jpg",
+        "CatId": "1"
+    },
+    {
+        "id": 12,
+        "name": "Lago",
+        "tipo": "bolso con cierre de broche de imán",
+        "color": "suela",
+        "price": "$8280",
+        "cuotas": "6 cuotas de $1380 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle.Tiene un bolsillo interno con cierre que también funciona como separador.La correa más larga es regulable y desmontable. Herrajes bronce viejo. Cierres metálico YKK y tiracierres de cuero.  No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro",
+        "medidas": "-Alto: 29 cm, -Ancho: 26 cm, -Profundidad: 16 cm",
+        "img": "bc5.jpg",
+        "CatId": "1"
+    },    
+    {
+        "id": 13,
+        "name": "Monte",
+        "tipo": "riñonera",
+        "color": "suela",
+        "price": "$5400",
+        "cuotas": "6 cuotas de $900 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle. Costuras y remaches de seguridad. Cierres metálicos ykk y tiracierres de cuero. Bolsillo interno y externo simple. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro.",
+        "medidas": "-Alto: 16 cm, Ancho: 36 cm, Profundidad: 4.5 cm",
+        "img": "ra1.jpg",
+        "CatId": "3"
+    },
+    {
+        "id": 14,
+        "name": "Monte",
+        "tipo": "riñonera",
+        "color": "negro",
+        "price": "$5400",
+        "cuotas": "6 cuotas de $900 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle. Costuras y remaches de seguridad. Cierres metálicos ykk y tiracierres de cuero. Bolsillo interno y externo simple. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro.",
+        "medidas": "-Alto: 16 cm, Ancho: 36 cm, Profundidad: 4.5 cm",
+        "img": "ra2.jpg",
+        "CatId": "3"
+    },
+    {
+        "id": 15,
+        "name": "Monte",
+        "tipo": "riñonera",
+        "color": "mostaza",
+        "price": "$5400",
+        "cuotas": "6 cuotas de $900 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle. Costuras y remaches de seguridad. Cierres metálicos ykk y tiracierres de cuero. Bolsillo interno y externo simple. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro.",
+        "medidas": "-Alto: 16 cm, Ancho: 36 cm, Profundidad: 4.5 cm",
+        "img": "ra3.jpg",
+        "CatId": "3"
+    },
+    {
+        "id": 16,
+        "name": "Monte",
+        "tipo": "riñonera",
+        "color": "verde",
+        "price": "$5400",
+        "cuotas": "6 cuotas de $900 (*)",
+        "descuento": "20% de descuento pagando en efectivo o débito",
+        "description": "Cuero argentino graneado natural, curtido de manera vegetal y teñido con pigmentos naturales respetando el medio ambiente. Confeccionada a mano cuidando cada detalle. Costuras y remaches de seguridad. Cierres metálicos ykk y tiracierres de cuero. Bolsillo interno y externo simple. No está forrada. Permite disfrutar de la textura del cuero tanto por fuera como por dentro.",
+        "medidas": "-Alto: 16 cm, Ancho: 36 cm, Profundidad: 4.5 cm",
+        "img": "ra4.jpg",
+        "CatId": "3"
+    }
+],
+
+"categories": [
+    {
+        "id": 1,
+        "name": "Bolso"
+    },
+    {
+        "id": 2,
+        "name": "Mochila"
+    },
+    {
+        "id": 3,
+        "name": "Riñonera"
+    }
+]
+
+}

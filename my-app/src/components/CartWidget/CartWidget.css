@@ -1,0 +1,96 @@
+.CartOptions {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin: 30px 10px 10px 10px;
+}
+
+.CartIcon {
+    padding-left: 60px;
+    cursor: pointer;
+}
+
+.CartIcon:hover {
+    font-weight: bolder;
+}
+
+.SelectCat {
+    font-size: 18px;
+    font-family: Roboto, Tahoma, Geneva, Verdana, sans-serif;
+    border: solid black;
+    width: 30%;
+}
+
+.BuscarTipo {
+    font-size: 18px;
+    font-family: Roboto, Tahoma, Geneva, Verdana, sans-serif;
+    border: solid black;
+    width: 30%;
+}
+
+.buttonCartDetail {
+    background-color: black;
+    color: white;
+    border: none;
+    font-family: Roboto, Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.buttonCartDetailSec{
+    background-color: rgba(148, 148, 148, 0.867);
+    color: white;
+    border: none;
+    font-family: Roboto, Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.CartDetailContainer {
+    display: flex;
+    margin: 10px;
+    border: solid black;
+    width: 25%;
+    justify-content: space-between;
+}
+
+.DetailInfo {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    font-family: Roboto, Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    width: 100%;
+}
+
+.CartDetailTitle {
+    font-family: Roboto, Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.DetailInfo p {
+    margin: 5px;
+}
+
+.CartImg {
+    width: 100px;
+    height: 150px;
+}
+
+.DeleteItem {
+    display: flex;
+    margin: 10px;
+    cursor: pointer;
+    justify-content: end;
+    align-items: flex-end;
+}
+
+.DeleteItem.CartIcon:hover {
+    transform: scale(1.05,1.05);
+}

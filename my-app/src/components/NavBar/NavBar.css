@@ -1,0 +1,53 @@
+.NavStyle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 15px 20px 15px 20px;
+    font-family: Roboto, Tahoma, Geneva, Verdana, sans-serif;
+    /* width: 100%; */
+}
+
+.Brand {
+    font-size: 25px;
+    font-family: 'Stick No Bills', sans-serif;
+    padding-left: 15px;
+    letter-spacing: 2px;
+}
+
+.liStyles {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Roboto, Tahoma, Geneva, Verdana, sans-serif;
+}
+      
+.liStyles li {
+    list-style: none;
+    padding-left: 60px;
+    font-size: 18px;
+}
+
+.NavCart {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+        
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+li:hover {
+    font-weight: bolder;
+    /* transform: scale(1.05,1.05); */
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+}
